@@ -1,1 +1,2 @@
-# sekiz
+# 404
+# Not Found
